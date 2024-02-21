@@ -1,4 +1,4 @@
-## Develop GAN models using CT images for Inhancing Image Resolution
+## Develop GAN models using CT images for Enhancing Image Resolution
 
 ---
 

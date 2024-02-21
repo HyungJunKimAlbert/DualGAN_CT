@@ -1,4 +1,4 @@
-## cycleGAN
+## Develop GAN models using CT images for Inhencing Image Resolution
 
 ---
 
